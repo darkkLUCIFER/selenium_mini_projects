@@ -1,2 +1,6 @@
+# automation
 selenium==4.16.0
 
+
+# color in terminal
+colorama==0.4.6
